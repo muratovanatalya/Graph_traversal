@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graph_traversal", "Graph_traversal\Graph_traversal.vcxproj", "{FC315288-120C-46D8-A293-C1CD574DF810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC315288-120C-46D8-A293-C1CD574DF810}.Debug|x64.ActiveCfg = Debug|x64
+		{FC315288-120C-46D8-A293-C1CD574DF810}.Debug|x64.Build.0 = Debug|x64
+		{FC315288-120C-46D8-A293-C1CD574DF810}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC315288-120C-46D8-A293-C1CD574DF810}.Debug|x86.Build.0 = Debug|Win32
+		{FC315288-120C-46D8-A293-C1CD574DF810}.Release|x64.ActiveCfg = Release|x64
+		{FC315288-120C-46D8-A293-C1CD574DF810}.Release|x64.Build.0 = Release|x64
+		{FC315288-120C-46D8-A293-C1CD574DF810}.Release|x86.ActiveCfg = Release|Win32
+		{FC315288-120C-46D8-A293-C1CD574DF810}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22536421-F86B-4938-BF4C-F2A017D31EB9}
+	EndGlobalSection
+EndGlobal
